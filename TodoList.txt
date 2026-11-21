@@ -1,0 +1,5 @@
+1) Paypal
+2) Images
+3)confirmation box
+4) login creds bhaneko password haru ko length, $sign etc..
+5) Delete a specific order 
